@@ -29,6 +29,7 @@
 		width: 272px;
 		height: 100%;
 		display: none;
+		-webkit-overflow-scrolling: touch;
 	}
 	
 	.active-left .side-pane.left, .active-right .side-pane.right {
@@ -43,13 +44,14 @@
 		right: 0;
 	}
 	
-	
 	nav {
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		z-index: 999;
+		-webkit-backface-visibility: hidden;
+		-webkit-perspective: 1000;
 	}
 	
 	.active-left #container, .active-left nav  {
