@@ -4,7 +4,25 @@ Panels.io
 Simple, responsive left/right sliding panels/drawers for desktop/mobile websites/apps
 
 
-This is a very simple script that adds left/right panels/drawers to pretty much any HTML5/CSS3 website/app. Panels slide in and out using CSS3 transitions, allowing for full control over panel width, easing, speed etc.
+A very simple script that adds left/right panels/drawers to pretty much any HTML5/CSS3 website/app. Panels slide in and out using CSS3 transitions, allowing for full control over panel width, easing, speed etc. Very easy to adpt using media queries and therefore changing panel widths etc for different screen widths.
 
 This script was created to address the specific situation of a fixed top nav bar needing to slide at the same time as the content. 
+
+
+How to use:
+
+Easy...
+
+1)  Before your content, add each panel with:
+    
+    <div class="side-pane left"> ... </div>
+    
+    <div class="side-pane right"> ... </div>
+    
+2)  Wrap your content as follows:
+
+    <div id="container"> ... </div>
+    
+    
+That's it.
 
