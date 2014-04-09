@@ -33,7 +33,9 @@ That's it!
 
 TIPS:
 
-Tested on desktop and mobile versions of Chrome/Safari/FF. Works on later IE versions, but fixed nav only slides on IE10+.
+1)  Use in conjunction with FastClick.js to remove the 300 ms delay on mobile devices.
+2)  Needs jQuery calling first before panelio.js is called.
+3)  Tested on desktop and mobile versions of Chrome/Safari/FF. Works on later IE versions, but fixed nav only slides on IE10+.
 
 
 DEMO:
