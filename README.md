@@ -23,6 +23,20 @@ Easy...
 
     <div id="container"> ... </div>
     
+3)  OPTIONAL. Attach a fixed position top nav bar:
+
+    <nav> ... </nav>
     
-That's it.
+    
+That's it!
+
+
+TIPS:
+
+Tested on Chrome/Safari/FF. Works on later IE versions, but fixed nav only slides correctly on IE10+.
+
+
+DEMO:
+
+Currently implement on http://presentation.io with full responsive design
 
