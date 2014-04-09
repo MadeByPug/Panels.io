@@ -33,10 +33,10 @@ That's it!
 
 TIPS:
 
-Tested on Chrome/Safari/FF. Works on later IE versions, but fixed nav only slides correctly on IE10+.
+Tested on desktop and mobile versions of Chrome/Safari/FF. Works on later IE versions, but fixed nav only slides on IE10+.
 
 
 DEMO:
 
-Currently implement on http://presentation.io with full responsive design
+Currently implemented on http://presentation.io with full responsive design
 
